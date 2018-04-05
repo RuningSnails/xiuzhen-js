@@ -35,6 +35,7 @@ function Twinkle(){
 }
 var bloo = "";
 function start(){
+	clearInterval(bloo);
 	bloo = setInterval("Twinkle()",1000);
 }
 function stop(){
