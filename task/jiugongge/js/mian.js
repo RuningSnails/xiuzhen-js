@@ -1,4 +1,3 @@
-@@ -0,0 +1,45 @@
 window.onload= function() {
 	var data = "";
 	for (var i = 0; i < 9; i++) {
