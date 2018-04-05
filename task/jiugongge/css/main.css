@@ -1,0 +1,19 @@
+@@ -0,0 +1,18 @@
+.boxlist{
+	position: relative;
+	text-align: -webkit-center;
+}
+.box{
+	position: relative;	
+	width: 30%;
+	padding-bottom: 30%;
+	background-color: orange;
+	float: left;
+	border: solid .3rem gainsboro;
+}
+button{
+	text-align: -webkit-center;
+	width: 60%;
+	margin: 5% 20%;
+	height: 3rem;
+}
